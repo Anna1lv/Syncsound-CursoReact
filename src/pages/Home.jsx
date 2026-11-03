@@ -2,7 +2,6 @@ const Home = () => {
     return(
         <main className="max-w-6xl mx-auto px-4 pt-24 pb-12">
             <form className="flex gap-2 mb-6">
-
                 <input 
                     type="text" 
                     placeholder="Buscar músicas ou artistas..." 

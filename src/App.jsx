@@ -1,9 +1,13 @@
+import { useEffect } from "react";
 import { Routes, Route} from "react-router-dom";
 import Home from "./pages/Home";
 import TrackDetail from "./pages/TrackDetail";
 import Header from "./components/Header";
 
+
 const App = () => {
+  
+
   return (
     <>
       <Header />
