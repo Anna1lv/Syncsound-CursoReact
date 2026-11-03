@@ -1,16 +1,66 @@
-# React + Vite
+# SyncSound — Fundamentos de React
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Projeto desenvolvido durante o curso de **Fundamentos de React**, disponibilizado pelo professor **Raphael Pereira Cardoso**, na disciplina **S03 - Interação Homem-Máquina**, do curso de Engenharia de Software do **Inatel**.
 
-Currently, two official plugins are available:
+O curso é ministrado por **Juliano Aleixo**, que apresenta conceitos e práticas de desenvolvimento com React, explorando a importância da componentização de interfaces para a construção de aplicações web modernas e escaláveis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Ao longo das atividades, são utilizadas ferramentas do ecossistema Front-end, como React, Vite e Tailwind CSS, além de conceitos de integração com APIs e desenvolvimento de interfaces interativas.
 
-## React Compiler
+## Tecnologias e ferramentas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React:** biblioteca JavaScript para construção de interfaces.
+- **Vite:** ferramenta para criação e execução do ambiente de desenvolvimento.
+- **Tailwind CSS:** framework CSS para estilização.
+- **React Router DOM:** gerenciamento de rotas e navegação.
+- **Lucide React:** biblioteca de ícones.
+- **JavaScript:** linguagem utilizada no desenvolvimento.
+- **Fetch API:** comunicação com APIs externas.
 
-## Expanding the Oxlint configuration
+## Atividades do curso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### A1 — Introdução ao React
+
+- Visão geral e fundamentos do React.
+- Configuração do ambiente de desenvolvimento.
+- Criação do projeto com Vite.
+- Instalação e configuração de dependências:
+  - Tailwind CSS;
+  - React Router DOM;
+  - Lucide React.
+- Limpeza e estruturação de pastas.
+
+### A2 — Fundamentos do React
+
+- Fundamentos do React: componentes e props.
+- Ponto de entrada e roteamento.
+- Criação do componente `Header`.
+- Criação da página `Home`.
+- Testes e preview da aplicação.
+
+### A3 — Integração com APIs
+
+- Introdução a APIs.
+- Configuração de proxy (CORS).
+- Criação do serviço de dados (`api.js`).
+- Definição de constantes (gêneros musicais).
+- Funções assíncronas (`async/await` e `fetch`).
+- Tratamento de erros e conversão de dados.
+- Testes no console.
+
+### A4 — Mão na Massa
+
+- Conceitos fundamentais: Hooks.
+- Criação dos componentes de interface.
+- Integração na Home com consumo real da API.
+- Construção da página de detalhes (`TrackDetail`).
+- Conclusão e próximos passos.
+
+## Objetivo
+
+Consolidar os conhecimentos de desenvolvimento Front-end por meio da prática com React, desde a configuração inicial do projeto até a construção de componentes reutilizáveis, navegação entre páginas e integração com APIs.
+
+Este repositório reúne os códigos e as implementações desenvolvidos durante o curso, registrando a evolução do aprendizado na disciplina de Interação Homem-Máquina.
+
+---
+
+**Engenharia de Software | Inatel**
