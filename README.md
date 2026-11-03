@@ -1,6 +1,6 @@
 # SyncSound — Fundamentos de React
 
-Projeto desenvolvido durante o curso de **Fundamentos de React**, disponibilizado pelo professor **Raphael Pereira Cardoso**, na disciplina **S03 - Interação Homem-Máquina**, do curso de Engenharia de Software do **Inatel**.
+Projeto desenvolvido durante o curso de **Fundamentos de React**, disponibilizado pelo professor **Raphael Pereira Cardoso**, na disciplina **S05 - Interação Homem-Máquina**, do curso de Engenharia de Software do **Inatel**.
 
 O curso é ministrado por **Juliano Aleixo**, que apresenta conceitos e práticas de desenvolvimento com React, explorando a importância da componentização de interfaces para a construção de aplicações web modernas e escaláveis.
 
