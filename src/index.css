@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @layer base {
-  body{
+  body {
     @apply bg-slate-900 text-slate-300 antialiased;
   }
 }
@@ -13,7 +13,7 @@
   cursor: pointer;
 }
 
-.volume-slider::webkit-slider-runnable-track {
+.volume-slider::-webkit-slider-runnable-track {
   height: 6px;
   border-radius: 9999px;
   background: transparent;
@@ -26,7 +26,7 @@
   height: 0px;
 }
 
-volume-slider::-moz-range-thumb {
+.volume-slider::-moz-range-thumb {
   width: 0px;
   height: 0px;
   border: none;
